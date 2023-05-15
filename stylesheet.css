@@ -10,12 +10,11 @@
   text-align: center;
   font-size: 2rem;
 }
-.links {
+#links {
   text-align: center;
+  font-size: 1.2rem;
 }
-p {
-  font-size: 1rem;
-}
-ul{
-  font-size: 0.85rem;
+
+ul {
+  font-size: 0.8rem;
 }
