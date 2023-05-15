@@ -1,0 +1,18 @@
+.headline {
+  color: blueviolet;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+.headline2 {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+.links {
+  text-align: center;
+}
+p {
+  font-size: 0.75rem;
+}
